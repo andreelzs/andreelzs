@@ -6,7 +6,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-## Ferramentas e tecnologias <br><br>
+  
+## Ferramentas e tecnologias
 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
@@ -17,7 +18,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-##Estou aprendendo <br><br>
+  
+## Estou aprendendo
 
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 
